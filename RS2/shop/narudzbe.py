@@ -13,15 +13,15 @@ class Narudzba:
         proizvodi_ispis = ', '.join(f"{proizvod['naziv']} x {proizvod['kolicina']}" for proizvod in self.proizvodi)
         print(f"Naručeni proizvodi: {proizvodi_ispis}, Ukupna cijena: {self.ukupna_cijena} eur")
 
-def napravi_narudzbu(proizvodi):
+def napravi_narudzbu(proizvodi_narudzba):
     # Provjera uvjeta
-    if not isinstance(proizvodi, list):
+    if not isinstance(proizvodi_narudzba, list):
         print("Argument proizvodi mora biti lista.")
         return None
-    if not proizvodi:
+    if not proizvodi_narudzba:
         print("Lista ne smije biti prazna.")
         return None
-    for proizvod in proizvodi:
+    for proizvod in proizvodi_narudzba:
         if not isinstance(proizvod, dict):
             print("Svaki element u listi mora biti rječnik.")
             return None
@@ -30,14 +30,14 @@ def napravi_narudzbu(proizvodi):
             return None
 
     # Provjera dostupnosti proizvoda
-    ukupna_cijena = sum(proizvod["cijena"] * proizvod["kolicina"] for proizvod in proizvodi)
-    for proizvod in proizvodi:
-        dostupno = next((p for p in proizvodi if p["naziv"] == proizvod["naziv"]), None)
-        if not dostupno or dostupno["kolicina"] < proizvod["kolicina"]:
+    ukupna_cijena = sum(proizvod["cijena"] * proizvod["kolicina"] for proizvod in proizvodi_narudzba)
+    for proizvod in proizvodi_narudzba:
+        dostupno = next((p for p in proizvodi if p.naziv == proizvod["naziv"]), None)
+        if not dostupno or dostupno.kolicina < proizvod["kolicina"]:
             print(f"Proizvod {proizvod['naziv']} nije dostupan!")
             return None
 
     # Stvaranje nove narudžbe
-    nova_narudzba = Narudzba(proizvodi, ukupna_cijena)
+    nova_narudzba = Narudzba(proizvodi_narudzba, ukupna_cijena)
     narudzbe.append(nova_narudzba)
     return nova_narudzba
