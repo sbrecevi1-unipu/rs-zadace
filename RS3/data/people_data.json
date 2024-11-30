@@ -1,0 +1,959 @@
+[
+    {
+        "id": 1,
+        "ime": "Karla",
+        "prezime": "Šarić",
+        "oib": "58736178553",
+        "muzika": [
+            "classical",
+            "pop",
+            "hip-hop"
+        ]
+    },
+    {
+        "id": 2,
+        "ime": "Luka",
+        "prezime": "Knežević",
+        "oib": "44990703288",
+        "muzika": [
+            "jazz",
+            "classical",
+            "metal"
+        ]
+    },
+    {
+        "id": 3,
+        "ime": "Mia",
+        "prezime": "Babić",
+        "oib": "47876930530",
+        "muzika": [
+            "pop",
+            "hip-hop",
+            "rock"
+        ]
+    },
+    {
+        "id": 4,
+        "ime": "Ana",
+        "prezime": "Marić",
+        "oib": "48726978087",
+        "muzika": [
+            "pop",
+            "hip-hop",
+            "metal"
+        ]
+    },
+    {
+        "id": 5,
+        "ime": "Luka",
+        "prezime": "Horvat",
+        "oib": "82245089644",
+        "muzika": [
+            "rock",
+            "metal",
+            "jazz"
+        ]
+    },
+    {
+        "id": 6,
+        "ime": "Ana",
+        "prezime": "Matić",
+        "oib": "65713304598",
+        "muzika": [
+            "rock",
+            "classical",
+            "pop"
+        ]
+    },
+    {
+        "id": 7,
+        "ime": "David",
+        "prezime": "Babić",
+        "oib": "33613736139",
+        "muzika": [
+            "hip-hop",
+            "metal",
+            "rock"
+        ]
+    },
+    {
+        "id": 8,
+        "ime": "Ana",
+        "prezime": "Marić",
+        "oib": "96774023363",
+        "muzika": [
+            "pop",
+            "classical",
+            "grunge"
+        ]
+    },
+    {
+        "id": 9,
+        "ime": "Petra",
+        "prezime": "Marić",
+        "oib": "51920007157",
+        "muzika": [
+            "hip-hop",
+            "pop",
+            "grunge"
+        ]
+    },
+    {
+        "id": 10,
+        "ime": "Marko",
+        "prezime": "Novak",
+        "oib": "14156823027",
+        "muzika": [
+            "jazz",
+            "hip-hop",
+            "metal"
+        ]
+    },
+    {
+        "id": 11,
+        "ime": "Tomislav",
+        "prezime": "Kovač",
+        "oib": "19679053106",
+        "muzika": [
+            "pop",
+            "hip-hop",
+            "jazz"
+        ]
+    },
+    {
+        "id": 12,
+        "ime": "Ivan",
+        "prezime": "Matić",
+        "oib": "75745831702",
+        "muzika": [
+            "pop",
+            "rock",
+            "jazz"
+        ]
+    },
+    {
+        "id": 13,
+        "ime": "Ivana",
+        "prezime": "Knežević",
+        "oib": "45906010128",
+        "muzika": [
+            "classical",
+            "rock",
+            "jazz"
+        ]
+    },
+    {
+        "id": 14,
+        "ime": "Karla",
+        "prezime": "Marić",
+        "oib": "42095045642",
+        "muzika": [
+            "jazz",
+            "rock",
+            "metal"
+        ]
+    },
+    {
+        "id": 15,
+        "ime": "Petra",
+        "prezime": "Marić",
+        "oib": "68292860655",
+        "muzika": [
+            "hip-hop",
+            "grunge",
+            "pop"
+        ]
+    },
+    {
+        "id": 16,
+        "ime": "Ivana",
+        "prezime": "Šarić",
+        "oib": "17550963437",
+        "muzika": [
+            "hip-hop",
+            "pop",
+            "grunge"
+        ]
+    },
+    {
+        "id": 17,
+        "ime": "Mia",
+        "prezime": "Marić",
+        "oib": "96773493640",
+        "muzika": [
+            "pop",
+            "rock",
+            "grunge"
+        ]
+    },
+    {
+        "id": 18,
+        "ime": "Tomislav",
+        "prezime": "Knežević",
+        "oib": "88905439680",
+        "muzika": [
+            "hip-hop",
+            "metal",
+            "grunge"
+        ]
+    },
+    {
+        "id": 19,
+        "ime": "Mia",
+        "prezime": "Matić",
+        "oib": "98386262035",
+        "muzika": [
+            "classical",
+            "hip-hop",
+            "jazz"
+        ]
+    },
+    {
+        "id": 20,
+        "ime": "Luka",
+        "prezime": "Marić",
+        "oib": "87422025664",
+        "muzika": [
+            "rock",
+            "jazz",
+            "classical"
+        ]
+    },
+    {
+        "id": 21,
+        "ime": "Ana",
+        "prezime": "Knežević",
+        "oib": "65608714866",
+        "muzika": [
+            "rock",
+            "metal",
+            "grunge"
+        ]
+    },
+    {
+        "id": 22,
+        "ime": "Petra",
+        "prezime": "Babić",
+        "oib": "74076340549",
+        "muzika": [
+            "hip-hop",
+            "pop",
+            "grunge"
+        ]
+    },
+    {
+        "id": 23,
+        "ime": "Marko",
+        "prezime": "Marić",
+        "oib": "72239516680",
+        "muzika": [
+            "grunge",
+            "jazz",
+            "hip-hop"
+        ]
+    },
+    {
+        "id": 24,
+        "ime": "Karla",
+        "prezime": "Vuković",
+        "oib": "11364759375",
+        "muzika": [
+            "hip-hop",
+            "grunge",
+            "classical"
+        ]
+    },
+    {
+        "id": 25,
+        "ime": "Ana",
+        "prezime": "Matić",
+        "oib": "52007510212",
+        "muzika": [
+            "jazz",
+            "pop",
+            "classical"
+        ]
+    },
+    {
+        "id": 26,
+        "ime": "Karla",
+        "prezime": "Matić",
+        "oib": "81401231246",
+        "muzika": [
+            "classical",
+            "grunge",
+            "jazz"
+        ]
+    },
+    {
+        "id": 27,
+        "ime": "Luka",
+        "prezime": "Kovač",
+        "oib": "99108895705",
+        "muzika": [
+            "pop",
+            "hip-hop",
+            "rock"
+        ]
+    },
+    {
+        "id": 28,
+        "ime": "Petra",
+        "prezime": "Marić",
+        "oib": "85219483286",
+        "muzika": [
+            "grunge",
+            "classical",
+            "rock"
+        ]
+    },
+    {
+        "id": 29,
+        "ime": "Luka",
+        "prezime": "Horvat",
+        "oib": "76879170550",
+        "muzika": [
+            "metal",
+            "classical",
+            "hip-hop"
+        ]
+    },
+    {
+        "id": 30,
+        "ime": "Petra",
+        "prezime": "Kovač",
+        "oib": "65290109992",
+        "muzika": [
+            "classical",
+            "jazz",
+            "grunge"
+        ]
+    },
+    {
+        "id": 31,
+        "ime": "Ana",
+        "prezime": "Horvat",
+        "oib": "93047860101",
+        "muzika": [
+            "classical",
+            "hip-hop",
+            "metal"
+        ]
+    },
+    {
+        "id": 32,
+        "ime": "Luka",
+        "prezime": "Knežević",
+        "oib": "32364355832",
+        "muzika": [
+            "metal",
+            "jazz",
+            "classical"
+        ]
+    },
+    {
+        "id": 33,
+        "ime": "David",
+        "prezime": "Kovač",
+        "oib": "52155579638",
+        "muzika": [
+            "metal",
+            "rock",
+            "jazz"
+        ]
+    },
+    {
+        "id": 34,
+        "ime": "Petra",
+        "prezime": "Kovač",
+        "oib": "74787490957",
+        "muzika": [
+            "hip-hop",
+            "pop",
+            "rock"
+        ]
+    },
+    {
+        "id": 35,
+        "ime": "Ivana",
+        "prezime": "Kovač",
+        "oib": "98774114920",
+        "muzika": [
+            "rock",
+            "metal",
+            "jazz"
+        ]
+    },
+    {
+        "id": 36,
+        "ime": "Tomislav",
+        "prezime": "Jurić",
+        "oib": "69345103926",
+        "muzika": [
+            "grunge",
+            "jazz",
+            "pop"
+        ]
+    },
+    {
+        "id": 37,
+        "ime": "Marko",
+        "prezime": "Knežević",
+        "oib": "10101489169",
+        "muzika": [
+            "classical",
+            "metal",
+            "hip-hop"
+        ]
+    },
+    {
+        "id": 38,
+        "ime": "Ana",
+        "prezime": "Šarić",
+        "oib": "53858674199",
+        "muzika": [
+            "classical",
+            "grunge",
+            "metal"
+        ]
+    },
+    {
+        "id": 39,
+        "ime": "Tomislav",
+        "prezime": "Šarić",
+        "oib": "33417366954",
+        "muzika": [
+            "metal",
+            "classical",
+            "jazz"
+        ]
+    },
+    {
+        "id": 40,
+        "ime": "Karla",
+        "prezime": "Šarić",
+        "oib": "92696406174",
+        "muzika": [
+            "jazz",
+            "metal",
+            "pop"
+        ]
+    },
+    {
+        "id": 41,
+        "ime": "Ivan",
+        "prezime": "Novak",
+        "oib": "97434143909",
+        "muzika": [
+            "pop",
+            "classical",
+            "grunge"
+        ]
+    },
+    {
+        "id": 42,
+        "ime": "Marko",
+        "prezime": "Horvat",
+        "oib": "77267826773",
+        "muzika": [
+            "rock",
+            "metal",
+            "classical"
+        ]
+    },
+    {
+        "id": 43,
+        "ime": "Karla",
+        "prezime": "Horvat",
+        "oib": "53463498300",
+        "muzika": [
+            "hip-hop",
+            "metal",
+            "jazz"
+        ]
+    },
+    {
+        "id": 44,
+        "ime": "Karla",
+        "prezime": "Matić",
+        "oib": "76009002718",
+        "muzika": [
+            "classical",
+            "grunge",
+            "hip-hop"
+        ]
+    },
+    {
+        "id": 45,
+        "ime": "Mia",
+        "prezime": "Kovač",
+        "oib": "37194587244",
+        "muzika": [
+            "classical",
+            "metal",
+            "jazz"
+        ]
+    },
+    {
+        "id": 46,
+        "ime": "Luka",
+        "prezime": "Babić",
+        "oib": "29418716933",
+        "muzika": [
+            "pop",
+            "grunge",
+            "jazz"
+        ]
+    },
+    {
+        "id": 47,
+        "ime": "David",
+        "prezime": "Babić",
+        "oib": "36316499848",
+        "muzika": [
+            "grunge",
+            "classical",
+            "pop"
+        ]
+    },
+    {
+        "id": 48,
+        "ime": "Ivana",
+        "prezime": "Vuković",
+        "oib": "36118949012",
+        "muzika": [
+            "classical",
+            "hip-hop",
+            "rock"
+        ]
+    },
+    {
+        "id": 49,
+        "ime": "Petra",
+        "prezime": "Knežević",
+        "oib": "55541664229",
+        "muzika": [
+            "metal",
+            "grunge",
+            "pop"
+        ]
+    },
+    {
+        "id": 50,
+        "ime": "Karla",
+        "prezime": "Horvat",
+        "oib": "72577657244",
+        "muzika": [
+            "jazz",
+            "pop",
+            "grunge"
+        ]
+    },
+    {
+        "id": 51,
+        "ime": "Karla",
+        "prezime": "Matić",
+        "oib": "33538807623",
+        "muzika": [
+            "rock",
+            "metal",
+            "pop"
+        ]
+    },
+    {
+        "id": 52,
+        "ime": "Petra",
+        "prezime": "Matić",
+        "oib": "25319190948",
+        "muzika": [
+            "metal",
+            "hip-hop",
+            "rock"
+        ]
+    },
+    {
+        "id": 53,
+        "ime": "Marko",
+        "prezime": "Horvat",
+        "oib": "34403454468",
+        "muzika": [
+            "hip-hop",
+            "jazz",
+            "grunge"
+        ]
+    },
+    {
+        "id": 54,
+        "ime": "Karla",
+        "prezime": "Matić",
+        "oib": "95230026072",
+        "muzika": [
+            "metal",
+            "jazz",
+            "hip-hop"
+        ]
+    },
+    {
+        "id": 55,
+        "ime": "Ivana",
+        "prezime": "Marić",
+        "oib": "63690946912",
+        "muzika": [
+            "hip-hop",
+            "grunge",
+            "pop"
+        ]
+    },
+    {
+        "id": 56,
+        "ime": "Ana",
+        "prezime": "Šarić",
+        "oib": "43712806790",
+        "muzika": [
+            "pop",
+            "jazz",
+            "metal"
+        ]
+    },
+    {
+        "id": 57,
+        "ime": "Ivan",
+        "prezime": "Jurić",
+        "oib": "44760392092",
+        "muzika": [
+            "grunge",
+            "jazz",
+            "pop"
+        ]
+    },
+    {
+        "id": 58,
+        "ime": "Marko",
+        "prezime": "Kovač",
+        "oib": "57491403462",
+        "muzika": [
+            "rock",
+            "classical",
+            "pop"
+        ]
+    },
+    {
+        "id": 59,
+        "ime": "Petra",
+        "prezime": "Marić",
+        "oib": "57314659036",
+        "muzika": [
+            "jazz",
+            "hip-hop",
+            "grunge"
+        ]
+    },
+    {
+        "id": 60,
+        "ime": "Ivana",
+        "prezime": "Matić",
+        "oib": "84734997290",
+        "muzika": [
+            "pop",
+            "hip-hop",
+            "rock"
+        ]
+    },
+    {
+        "id": 61,
+        "ime": "David",
+        "prezime": "Marić",
+        "oib": "95552333695",
+        "muzika": [
+            "grunge",
+            "pop",
+            "hip-hop"
+        ]
+    },
+    {
+        "id": 62,
+        "ime": "David",
+        "prezime": "Vuković",
+        "oib": "13451364832",
+        "muzika": [
+            "jazz",
+            "metal",
+            "pop"
+        ]
+    },
+    {
+        "id": 63,
+        "ime": "Tomislav",
+        "prezime": "Kovač",
+        "oib": "35283973929",
+        "muzika": [
+            "metal",
+            "classical",
+            "pop"
+        ]
+    },
+    {
+        "id": 64,
+        "ime": "Petra",
+        "prezime": "Knežević",
+        "oib": "81289885956",
+        "muzika": [
+            "rock",
+            "jazz",
+            "pop"
+        ]
+    },
+    {
+        "id": 65,
+        "ime": "Ivana",
+        "prezime": "Šarić",
+        "oib": "53292155478",
+        "muzika": [
+            "hip-hop",
+            "metal",
+            "classical"
+        ]
+    },
+    {
+        "id": 66,
+        "ime": "Mia",
+        "prezime": "Knežević",
+        "oib": "30960932638",
+        "muzika": [
+            "jazz",
+            "rock",
+            "classical"
+        ]
+    },
+    {
+        "id": 67,
+        "ime": "Tomislav",
+        "prezime": "Novak",
+        "oib": "72174236726",
+        "muzika": [
+            "hip-hop",
+            "grunge",
+            "pop"
+        ]
+    },
+    {
+        "id": 68,
+        "ime": "Mia",
+        "prezime": "Knežević",
+        "oib": "80698952410",
+        "muzika": [
+            "classical",
+            "rock",
+            "jazz"
+        ]
+    },
+    {
+        "id": 69,
+        "ime": "Luka",
+        "prezime": "Marić",
+        "oib": "14483305892",
+        "muzika": [
+            "pop",
+            "jazz",
+            "metal"
+        ]
+    },
+    {
+        "id": 70,
+        "ime": "Tomislav",
+        "prezime": "Horvat",
+        "oib": "45702938091",
+        "muzika": [
+            "metal",
+            "jazz",
+            "classical"
+        ]
+    },
+    {
+        "id": 71,
+        "ime": "David",
+        "prezime": "Marić",
+        "oib": "26897116205",
+        "muzika": [
+            "metal",
+            "rock",
+            "hip-hop"
+        ]
+    },
+    {
+        "id": 72,
+        "ime": "Ana",
+        "prezime": "Marić",
+        "oib": "98779421027",
+        "muzika": [
+            "pop",
+            "hip-hop",
+            "metal"
+        ]
+    },
+    {
+        "id": 73,
+        "ime": "Ana",
+        "prezime": "Marić",
+        "oib": "88302675508",
+        "muzika": [
+            "rock",
+            "metal",
+            "jazz"
+        ]
+    },
+    {
+        "id": 74,
+        "ime": "Ivan",
+        "prezime": "Horvat",
+        "oib": "78542039079",
+        "muzika": [
+            "grunge",
+            "hip-hop",
+            "classical"
+        ]
+    },
+    {
+        "id": 75,
+        "ime": "Ivan",
+        "prezime": "Matić",
+        "oib": "31738715876",
+        "muzika": [
+            "metal",
+            "jazz",
+            "pop"
+        ]
+    },
+    {
+        "id": 76,
+        "ime": "Ivan",
+        "prezime": "Novak",
+        "oib": "33946159152",
+        "muzika": [
+            "metal",
+            "rock",
+            "pop"
+        ]
+    },
+    {
+        "id": 77,
+        "ime": "Luka",
+        "prezime": "Šarić",
+        "oib": "25051619418",
+        "muzika": [
+            "classical",
+            "jazz",
+            "hip-hop"
+        ]
+    },
+    {
+        "id": 78,
+        "ime": "Ana",
+        "prezime": "Vuković",
+        "oib": "70063602313",
+        "muzika": [
+            "pop",
+            "hip-hop",
+            "metal"
+        ]
+    },
+    {
+        "id": 79,
+        "ime": "Mia",
+        "prezime": "Šarić",
+        "oib": "64576945568",
+        "muzika": [
+            "metal",
+            "pop",
+            "rock"
+        ]
+    },
+    {
+        "id": 80,
+        "ime": "Marko",
+        "prezime": "Novak",
+        "oib": "42561080658",
+        "muzika": [
+            "classical",
+            "grunge",
+            "pop"
+        ]
+    },
+    {
+        "id": 81,
+        "ime": "Tomislav",
+        "prezime": "Babić",
+        "oib": "34703774479",
+        "muzika": [
+            "classical",
+            "metal",
+            "pop"
+        ]
+    },
+    {
+        "id": 82,
+        "ime": "Marko",
+        "prezime": "Knežević",
+        "oib": "37402386212",
+        "muzika": [
+            "grunge",
+            "classical",
+            "jazz"
+        ]
+    },
+    {
+        "id": 83,
+        "ime": "Petra",
+        "prezime": "Knežević",
+        "oib": "40653586495",
+        "muzika": [
+            "pop",
+            "metal",
+            "rock"
+        ]
+    },
+    {
+        "id": 84,
+        "ime": "David",
+        "prezime": "Horvat",
+        "oib": "15290594490",
+        "muzika": [
+            "pop",
+            "rock",
+            "jazz"
+        ]
+    },
+    {
+        "id": 85,
+        "ime": "Petra",
+        "prezime": "Horvat",
+        "oib": "93994192883",
+        "muzika": [
+            "pop",
+            "hip-hop",
+            "classical"
+        ]
+    },
+    {
+        "id": 86,
+        "ime": "David",
+        "prezime": "Jurić",
+        "oib": "81492523645",
+        "muzika": [
+            "classical",
+            "hip-hop",
+            "rock"
+        ]
+    },
+    {
+        "id": 87,
+        "ime": "Luka",
+        "prezime": "Marić",
+        "oib": "47900666175",
+        "muzika": [
+            "classical",
+            "jazz",
+            "grunge"
+        ]
+    }
+]
