@@ -28,13 +28,7 @@ async def provjeri_parnost(broj):
     return result
 
 
-    await asyncio.sleep(3)
-    for korisnik_iz_baze in baza_korisnika:
-        if korisnik_iz_baze["korisnicko_ime"] == korisnik["korisnicko_ime"] and korisnik_iz_baze["email"] == korisnik["email"]:
-            print(await autorizacija(korisnik_iz_baze, korisnik['lozinka']))
-            return f"Korisnik {korisnik['korisnicko_ime']} je pronađen."  
-        else:
-            return f"Korisnik {korisnik['korisnicko_ime']} nije pronađen."  
+
     
  
 async def main():
