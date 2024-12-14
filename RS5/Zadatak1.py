@@ -6,18 +6,23 @@ koristeći neki od HTTP klijenata ili curl i provjerite odgovor.
 
 Now Playing
 Fast As A Shark  by  Accept
+
+It lasted a few songs more to find misspelled pro(i)zvodi, 
+dok sam doma flame-ao firmu na restriktivnom firewallu 
+i ludom antivirusnom softwareu koji mi exeove Pythona inače trpa u karantenu
+
 '''
-#test
 
 import asyncio
 # import aiohttp
+import json
 
 from aiohttp import web
 
 
 def handler_function(request):
     # Kreiranje liste proizvoda - proizvod je riječnik listi
-    products = [
+    proizvodi = [
         {
             "naziv": "Proizvod 1",
             "cijena": 10.0,
@@ -36,11 +41,13 @@ def handler_function(request):
     ]
     try:
         # Process the request
-        return web.Response(text="Request handled successfully")
+        
+        # return web.Response(text=json.dumps(proizvodi))
+    #ili
+        return web.json_response(proizvodi)
     except Exception as e:
         return web.Response(status=400, text="Bad Request")
-    
-    # return web.json_response(products)
+
     
 
    
