@@ -34,14 +34,19 @@ def handler_function(request):
             "kolicina": 10
         }
     ]
+    try:
+        # Process the request
+        return web.Response(text="Request handled successfully")
+    except Exception as e:
+        return web.Response(status=400, text="Bad Request")
     
-    return web.json_response(products)
+    # return web.json_response(products)
     
 
    
 
 app = web.Application()
 
-app.router.add_get("/prozvodi", handler_function)
+app.router.add_get("/proizvodi", handler_function)
 # web.run_app(app, port=8081)
 web.run_app(app, host='localhost', port=8081)

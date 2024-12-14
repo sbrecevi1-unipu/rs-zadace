@@ -10,6 +10,7 @@ list comprehension izdvojite u zasebne 3 liste: samo imena korisnika, samo email
 samo username korisnika. Na kraju main korutine ispišite sve 3 liste i vrijeme izvođenja programa.
 '''
 
+
 import asyncio
 import aiohttp
 import time
