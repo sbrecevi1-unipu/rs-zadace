@@ -42,6 +42,5 @@ async def main():
     filtered_facts = await check_facts(facts)
     print(f"Filtrirane činjenice: {filtered_facts}")
 
-
 if __name__ == '__main__':
-    asyncio.run(main())
+    asyncio.run(main())    
