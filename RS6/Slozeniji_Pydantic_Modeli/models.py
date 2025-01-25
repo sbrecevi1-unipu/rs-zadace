@@ -71,8 +71,8 @@ narudzba = RestaurantOrder(
     ukupna_cijena=80.0
 )
 frame = CCTV_frame(identifikator=1,
-    vrijeme_snimanja=datetime.now(),
-    koordinate=(45.8150, 15.9819))
-
+    vrijeme_snimanja=datetime.now()
+    # ,koordinate=(45.8150, 15.9819))
+)
 print(narudzba)
 print(frame)
