@@ -26,7 +26,7 @@ async def verify_credentials(credentials: UserCredentials) -> bool:
     async with aiohttp.ClientSession() as session:
         try:
             async with session.post(
-                'http://auth-api:9000/login',
+                'http://auth:9000/login',
                 json={
                     'korisnicko_ime': credentials.korisnicko_ime,
                     'lozinka': credentials.lozinka
