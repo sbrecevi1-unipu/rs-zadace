@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  auth:
+    image: auth
+    ports:
+      - "9000:9000"
+    networks:
+      - bridged-network
+
+  social:
+    image: social
+    ports:
+      - "3500:3500"
+    networks:
+      - bridged-network
+
+networks:
+  bridged-network:
+    driver: bridge
